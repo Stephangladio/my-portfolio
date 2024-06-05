@@ -4,7 +4,8 @@ export default function About() {
   const config={
     line1:"Hi, My name is Stephan Gladio. i am a Front-end web developer. I built beautiful website with react.js and tailwind CSS",
     line2:"I am proficient in frontend skills like react.js, Axios, tailwind CSS, Css3 and HTML5.",
-    line3:"In backend i know python and I bring creativity to coding"
+    line3:"I excel as a creative thinker with exceptional problem-solving skills, consistently finding innovative solutions. My effective time management ensures productivity and project success. I maintain a positive attitude, fostering a collaborative and motivating work environment.",
+    line4:"I enjoy listening to music, playing chess and football, and watching movies. These activities help me relax and stay active both mentally and physically."
   }
 
   return (
@@ -18,6 +19,7 @@ export default function About() {
             <p className='pb-5'>{config.line1}</p>
             <p className='pb-5'>{config.line2}</p>
             <p className='pb-5'>{config.line3}</p>
+            <p className='pb-5'>{config.line4}</p>
             </div>
         </div>
     </section>
