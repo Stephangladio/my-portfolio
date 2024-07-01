@@ -4,7 +4,7 @@ import { RiTwitterXLine, RiInstagramLine, RiLinkedinLine,RiGithubFill } from "re
 export default function Hero() {
 
     const config={
-      subtitle:"I'm a Full-stack developer"
+      subtitle:"I'm a Front End developer"
     }
 
 
